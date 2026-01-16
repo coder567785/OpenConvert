@@ -6,7 +6,7 @@ OpenConvert is a modern, lightweight, multi-format file converter built with **P
 It focuses on clean UI, offline usage, and real desktop-software experience.
 
 <p align="center">
-  <img src="assets/ui.png" width="700">
+  <img src="assets/ui.png" width="600">
 </p>
 
 ---
